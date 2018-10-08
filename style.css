@@ -74,9 +74,10 @@ header {
   border: 2px solid;
   border-color: #e82258;
   border-radius:4px;
-  background: #27272d;
+  
   padding: 12px 50px;
-  color: #e82258;
+  color: #fff;
+  background: #e82258;
   letter-spacing:.025em;
   margin: 10px;
   }
@@ -130,6 +131,7 @@ MEDIA QUERIES
     
     img{
           width: 95.6%;
+width: auto;
     }
   #left{
     width: 50%;

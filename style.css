@@ -7,8 +7,7 @@ body {
   color: #fff;
  background-color: #27272d;
   height: 97%;
-    width: 97%
-    
+    width: 97% 
 }
 
 a{
@@ -20,7 +19,7 @@ p {
 }
 
 h1 {
-    font-size: 1.2em;
+    font-size: 3em;
     text-transform: uppercase;
     color: #ffffff;
 }

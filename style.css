@@ -55,14 +55,13 @@ header {
   float: left;
   text-align: center;
 }
-
+/* 
 #middle {
-  width: 50%; /* Account for margins + border values */
+  width: 50%;
   float: left;
   padding: 5px 15px;
   margin: 0px 5px 5px 5px;
-}
-
+}*/
 
  .button {
   font-family: 'Montserrat', sans-serif;

@@ -6,8 +6,6 @@ body {
   font-weight: 300;
   color: #fff;
  background-color: #27272d;
-  height: 97%;
-    width: 97% 
 }
 
 a{
@@ -41,7 +39,7 @@ img {  height:600px;
 
 #pagewrap {
   
-  margin: 1px auto;
+  margin: 10px auto;
   text-align: center;
 }
 

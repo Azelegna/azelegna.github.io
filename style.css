@@ -132,19 +132,19 @@ MEDIA QUERIES
           width: 95.6%;
     }
   #left{
-    width: 24.6%;
+    width: 50%;
     padding: 1% 4%;
    
   }
   #middle {
-    width: 24.6%;
+    width: 50;
     padding: 1% 4%;
     margin: 0px 0px 5px 5px;
     float: left;
   }
 
   #sidebar {
-   width: 24.6%;
+   width: 0;
  
     padding: 1% 4%;
 

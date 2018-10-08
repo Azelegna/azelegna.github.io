@@ -47,16 +47,13 @@ header {
   text-align: center;
 }
 
-
-
-
 #left {
   width:50%;
   float: left;
 }
 
 #middle {
-  width: 283px; /* Account for margins + border values */
+  width: 50%; /* Account for margins + border values */
   float: left;
   padding: 5px 15px;
   margin: 0px 5px 5px 5px;
@@ -119,7 +116,7 @@ MEDIA QUERIES
 /* for 980px or less */
 @media screen and (max-width: 980px) {
   #pagewrap {
-    width: 94%;
+    width: 100%;
     
   }
     #content{

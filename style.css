@@ -5,7 +5,7 @@ body {
     font-family: 'Montserrat', sans-serif;
   font-weight: 300;
   color: #666;
- background-color: #f8f8f8;
+ background-color: #27272d;
   height: 95%;
     width: 95%
     
@@ -51,9 +51,8 @@ header {
 
 
 #left {
-  width: 283px;
+  width:50%;
   float: left;
-  padding: 5px 15px;
 }
 
 #middle {

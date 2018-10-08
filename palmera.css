@@ -66,32 +66,3 @@ h2
 .calltoaction {
  border-bottom: solid 1px #ccc;
 }
-
-
-
-
-
- */
-
-/************************************************************************************
-MEDIA QUERIES
-*************************************************************************************/
-/* for 980px or less */
-
-@media screen and (max-width: 980px) {
-  #pagewrap {
-    width: 100%;
-  }
-
-    
-    img{
-width: 95.6%;
-width: auto;
-    }
-
-  
-
-    header{
-         padding-bottom: 4%; 
-    }
-

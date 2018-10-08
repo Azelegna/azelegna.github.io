@@ -119,6 +119,8 @@ footer p {
 MEDIA QUERIES
 *************************************************************************************/
 /* for 980px or less */
+
+/* 
 @media screen and (max-width: 980px) {
   #pagewrap {
     width: 100%;
@@ -803,3 +805,4 @@ p.description {
   margin: 2em 2em 1em 2em;
   text-align: center;
 }
+*/ 
